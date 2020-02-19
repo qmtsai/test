@@ -1,2 +1,6 @@
 Learning Python is funny.
+<<<<<<< HEAD
 Modify again.
+=======
+Test1
+>>>>>>> a0598bf728e4305dde43202873ed524586d7f0b7
